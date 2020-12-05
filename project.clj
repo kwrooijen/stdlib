@@ -2,7 +2,6 @@
   :description "Babashka compatible helper functions"
   :url "https://github.com/kwrooijen/stdlib"
   :license {:name "MIT"}
-  :source-paths ["src/clj" "src/cljc"]
   :dependencies []
   :plugins [[lein-cloverage "1.1.2"]
             [lein-codox "0.10.7"]
